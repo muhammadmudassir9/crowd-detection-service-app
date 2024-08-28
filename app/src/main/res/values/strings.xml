@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crowd Detection Service</string>
+    <string name="crowd_detection_service">Crowd Detection Service</string>
+    <string name="how_to_get_started">How to get started</string>
+    <string name="record_video">Record Video</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="inventory">Inventory</string>
+    <string name="server">Server</string>
+    <string name="image_description">Image description</string>
+    <string name="record_video_description">Record video description</string>
+    <string name="capture_image_description">Capture image description</string>
+    <string name="inventory_description">Inventory description</string>
+    <string name="server_description">Server description</string>
+</resources>
